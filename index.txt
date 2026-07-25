@@ -1,1 +1,2 @@
 Contact: Jonh Doe
+Email: john.doe@example.com
